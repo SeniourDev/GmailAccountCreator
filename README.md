@@ -3,6 +3,7 @@
 <br>
 <b>Gmail Account Creator Automation Tool with SMS-API (5sim.net &amp; sms-activate.ru)</b>
 <br> <br>
+https://github.com/SeniourDev/GmailAccountCreator/releases/tag/release <br> <br>
 • Name and surnames are generated <b> randomly </b> (Any Language)  <br>
 • You have to upload proxy list if you're proxies are clean you don't have to use SMS API. <br>
 • Multi Threads.<br>
