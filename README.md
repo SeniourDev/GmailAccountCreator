@@ -2,7 +2,7 @@
 <h1>Gmail Account Creator Automation Tool with SMS-API</h1>
 
 
-# [Click here to download latest release.](https://github.com/SeniourDev/GmailAccountCreator/releases/tag/release)
+# [Click here](https://github.com/SeniourDev/GmailAccountCreator/releases/tag/release) to download latest release.
 
 > [!NOTE]
 • <b>Gmail Account Creator Automation Tool with SMS-API (5sim.net &amp; sms-activate.ru)</b>
