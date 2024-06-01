@@ -4,6 +4,14 @@
 
 # [Click here](https://github.com/SeniourDev/GmailAccountCreator/releases/tag/release) to download latest release.
 
+<p align="center">
+  <!-- You can add your badges here -->
+  <!-- If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below -->
+  <img src="https://img.shields.io/badge/STARS-1K-green"  />
+  <img src="https://img.shields.io/badge/npm-v.0.21.0-red"  />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-green"  />
+</p>
+
 > [!NOTE]
 • <b>Gmail Account Creator Automation Tool with SMS-API (5sim.net &amp; sms-activate.ru)</b>
 
