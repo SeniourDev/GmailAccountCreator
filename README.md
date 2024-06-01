@@ -1,16 +1,20 @@
 
-<h1>GmailAccountCreator </h1>
-<br>
-<b>Gmail Account Creator Automation Tool with SMS-API (5sim.net &amp; sms-activate.ru)</b>
-<br> <br>
-https://github.com/SeniourDev/GmailAccountCreator/releases/tag/release <br> <br>
-• Name and surnames are generated <b> randomly </b> (Any Language)  <br>
-• You have to upload proxy list if you're proxies are clean you don't have to use SMS API. <br>
-• Multi Threads.<br>
-• Customize details (names, lastnames, passwords).<br>
-• Runs on local, its a basic BrowserAutomationStudio Tool, if you have any problems feel free to contact with me.<br>
-<br>
-<br>
+<h1>Gmail Account Creator Automation Tool with SMS-API</h1>
+
+
+# [Click here to download latest release.](https://github.com/SeniourDev/GmailAccountCreator/releases/tag/release)
+
+> [!NOTE]
+• <b>Gmail Account Creator Automation Tool with SMS-API (5sim.net &amp; sms-activate.ru)</b>
+
+> [!TIP]
+• You better buy private proxies.
+
+> [!IMPORTANT]
+• You have to upload proxy list, if you're proxies are clean you don't have to use SMS API. <br>
+
+> [!WARNING]
+• If you want to create gmail accounts without problems, we reccommend you to buy private proxies and use a good SMS Service
 
 
 
